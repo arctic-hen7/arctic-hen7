@@ -4,7 +4,7 @@ I'm arctic_hen7, a freelance Rust developer with passion for open-source and bui
 
 You can see my blog and my projects on my personal site at <https://arctic-hen7.github.io>!
 
-- 🔭 I’m currently working on [Bonnie](https://github.com/arctic-hen7/bonnie), [Diana](https://github.com/arctic-hen7/diana), and [Perseus](https://github.com/arctic-hen7/perseus)
+- 🔭 I’m currently (mainly) working on [Bonnie](https://github.com/arctic-hen7/bonnie), [Tribble](https://github.com/arctic-hen7/tribble), and [Perseus](https://github.com/arctic-hen7/perseus)
 - 🌱 I’m currently learning Rust for web development (and building the tech behind it)
 - 👯 I’m looking to collaborate on anything interesting
 - 💬 Ask me about Rust, command aliasing, Rust web dev, adding unnecessary features to things for no particular reason
